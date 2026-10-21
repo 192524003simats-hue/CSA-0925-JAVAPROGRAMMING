@@ -1,0 +1,3 @@
+Vehicle(TN01AB1111)
+Equal: true
+Same hash: true

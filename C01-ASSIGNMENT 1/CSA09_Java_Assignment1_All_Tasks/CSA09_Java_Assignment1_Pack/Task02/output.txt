@@ -1,0 +1,5 @@
+Floors: 3
+Floor 0 slots: 2
+Floor 1 slots: 1
+Floor 2 slots: 3
+Billable hours for 61 minutes: 2

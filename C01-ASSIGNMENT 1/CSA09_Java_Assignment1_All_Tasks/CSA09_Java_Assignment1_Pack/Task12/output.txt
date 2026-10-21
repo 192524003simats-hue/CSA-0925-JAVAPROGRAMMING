@@ -1,0 +1,4 @@
+Car fee (60 min): Rs 0.0
+E-bike flat fee: Rs 25.0
+Delivery van daytime fee (2 hours): Rs 120.0
+Uneven floors supported: [20, 35, 50, 40, 25]

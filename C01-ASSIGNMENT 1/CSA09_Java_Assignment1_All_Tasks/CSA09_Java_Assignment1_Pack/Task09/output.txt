@@ -1,0 +1,3 @@
+Registration: TN03C3
+Hourly rate: 30.0
+Charging fee: 60.0

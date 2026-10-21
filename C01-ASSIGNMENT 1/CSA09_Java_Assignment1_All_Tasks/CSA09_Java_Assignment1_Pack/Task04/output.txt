@@ -1,0 +1,3 @@
+Ticket ID: 101
+Vehicle Number: TN01AB1111
+Duration: 90 minutes

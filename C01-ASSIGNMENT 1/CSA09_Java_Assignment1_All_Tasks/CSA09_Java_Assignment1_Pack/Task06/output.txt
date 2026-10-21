@@ -1,0 +1,4 @@
+Vehicle constructor
+Car constructor
+ElectricCar constructor
+Rate: 30.0

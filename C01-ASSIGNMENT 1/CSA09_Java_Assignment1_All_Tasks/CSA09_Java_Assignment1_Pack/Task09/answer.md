@@ -1,0 +1,5 @@
+# Task 9 — Introduce Abstraction
+
+`Vehicle` is abstract because a generic vehicle has common state (`regNo`) but does not define one universal hourly rate. `ratePerHour()` is abstract and subclasses implement it. `Chargeable` is an interface because charging is a capability that can be added to an electric car without forcing all vehicles to inherit from a charging base class. A class can implement multiple interfaces. Default interface methods are useful for shared optional behaviour; static interface methods are useful for related utilities.
+
+If `Vehicle` became an interface, it could not hold per-instance state through ordinary instance fields or provide constructors. An abstract `Chargeable` class would prevent a class from extending another class and `Chargeable` at the same time, because Java supports only one direct superclass. Interface dispatch and abstract-class virtual calls have no meaningful algorithmic complexity difference for this example; each object still uses O(1) state plus its fields.

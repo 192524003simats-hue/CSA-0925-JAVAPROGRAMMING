@@ -1,0 +1,5 @@
+Car slot: [0, 0]
+Bike slot: [1, 0]
+Full facility: null
+TN01AB1111 fee: Rs 60.0
+Invalid registration found: false
